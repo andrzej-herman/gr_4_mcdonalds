@@ -1,0 +1,511 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "productName": "Mc Royal",
+            "description": "Kanapka McRoyal składa się z grillowanej wołowiny, która nadaje mięsu soczysty smak. Dodatkowo, doświadczenie smakowe uzupełnia topiący się ser cheddar, tworzący kremową i aromatyczną warstwę. Pikle dodają wyrazistego smaku i chrupkości, natomiast cebula nadaje kanapce delikatnej słodyczy i charakterystycznego aromatu. Całość jest uzupełniana przez musztardę i ketchup, które nadają kanapce pikantności i dodatkowej głębi smaku. To połączenie składników tworzy intensywny i zrównoważony smak, który zyskał popularność w menu McDonald's jako McRoyal.",
+            "price": "20.30 PLN",
+            "ingredients": [
+                "wołowina",
+                "ser cheddar topiony",
+                "pikle",
+                "cebula. musztarda",
+                "keczup"
+            ],
+            "photos": [
+                "https://cdn.mcdonalds.pl/uploads/20220922160425/mcroyal.png  https://mcdonalds.lv/wp-content/uploads/2019/07/McD_web2021_McRoyal-03.png  https://www.tabele-kalorii.pl/photo-1232555/McRoyal-McDonald-s.jpg "
+            ],
+            "category": "burger"
+        },
+        {
+            "id": 2,
+            "productName": "WieśMac",
+            "description": "WieśMac to kanapka oferowana przez McDonald's, składająca się z grillowanej wołowiny, topionego sera cheddara, krojonej sałaty, plastra pomidora i cebuli. Charakteryzuje się wyrazistym smakiem mięsa, uzupełnionym świeżością warzyw i chrupkością sałaty. Sos musztardowo-chrzanowy dodaje kanapce pikantności i głębi smaku. To połączenie składników tworzy smaczny i zrównoważony posiłek, który cieszy się popularnością wśród klientów McDonald's. WieśMac to doskonały wybór dla miłośników intensywnych smaków i świeżych składników.",
+            "price": "21.70 PLN",
+            "ingredients": [
+                "wołowina",
+                "ser cheddar topiony",
+                "pomidor",
+                "sałata krojona",
+                "cebula",
+                "sos musztardowo-chrzanowy"
+            ],
+            "photos": [
+                "https://cdn.mcdonalds.pl/uploads/20220922161306/wies-mac.png   https://i.colnect.net/f/2565/918/Wie%C5%9BMac.jpg  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-hLNiHnBff3sYO9XbtqTXRSV8udXyLnZcFVy8mtp7c9-QgjNnLYLk2TV-KO_b-eJPnnQ&usqp=CAU  "
+            ],
+            "category": "burger"
+        },
+        {
+            "id": 3,
+            "productName": "McCrispy",
+            "description": "Przenieś się w świat niezapomnianego smaku, odkrywając nowy wymiar chrupkości w naszym wyjątkowym burgerze! W tej niezwykłej kompozycji zachwycisz się soczystym kawałkiem piersi z kurczaka, otulonym bajecznie chrupiącą panierką. Do tego dodaliśmy popularne dodatki, takie jak wyrazisty pomidor, świeża sałata i kremowy sos musztardowo-miodowy, które nadają każdemu kęsowi intensywny smak. Całość ta została zamknięta w wyjątkowo puszystej bułce, tworząc niepowtarzalne doświadczenie smakowe. Mmm, czy zdecydujesz się na tę harmonię soczystości, chrupkości i aromatu?",
+            "price": "19.40 PLN",
+            "ingredients": [
+                "panierowana pierś z kurczaka",
+                "ser cheddar",
+                "pomidor",
+                "sałata",
+                "sos musztardowo-miodowy"
+            ],
+            "photos": [
+                "https://metro.co.uk/wp-content/uploads/2022/11/mccrispy-1-0704.jpg?quality=90&strip=all https://www.mcdo-strasbourg.fr/wp-content/uploads/2023/06/Banniere-site-McCrispy-1.png https://cdn.mcdonalds.pl/uploads/20230328133513/351024-mccrispy-na-www-1090x664px-72dpi-3-mccrispy.png "
+            ],
+            "category": "burger"
+        },
+        {
+            "id": 4,
+            "productName": "Cheeseburger",
+            "description": "Dodanie sera cheddar do zwykłego hamburgera to kulminacja smakowego doskonałego w McDonald's. Ser cheddar nadaje burgerowi intensywnego, kremowego smaku, który wyróżnia go spośród innych pozycji menu. To niezwykłe połączenie mięsa i topiącego się sera tworzy smakowitą harmonię, zaspokajającą apetyt na intensywną przyjemność jedzenia. Burger z serem cheddar stał się nieodłącznym elementem doświadczenia w restauracjach McDonald's, symbolizując smakowitą tradycję tej popularnej sieci fast food. Nie bez powodu jest to pozycja, bez której trudno sobie wyobrazić pełną ofertę smaków w menu McDonald's.",
+            "price": "6.90 PLN",
+            "ingredients": [
+                "wołowina",
+                "ser cheddar",
+                "kechup",
+                "pikle",
+                "cebula suszona",
+                "musztarda "
+            ],
+            "photos": [
+                "https://s.mamotoja.pl/media/cache/450x450/media/product/201209/087_01_9604.jpg  https://www.mcdonalds.cz/uploads/images/products/2-cz/243b98b7d368516044c705d8c048befa.jpeg https://stawkomat.pl/uploads/image/2021-12/1640640099_4a71ee800426103a204e59af798ec72b.png "
+            ],
+            "category": "burger"
+        },
+        {
+            "id": 5,
+            "productName": "Hamburger",
+            "description": "Hamburger w McDonald's to doskonała kombinacja smaków, zaczynając od soczystej wołowiny, która stanowi główny składnik. Dodatek ketchupu nadaje mu słodkawo-pikantnego charakteru, podkreślając intensywność mięsa. Pikle dodają chrupkości i świeżości, tworząc zaskakujący kontrast w każdym kęsie. Cebula smażona dostarcza burgerowi delikatnej słodyczy i aromatu karmelizacji, nadając mu wyjątkowego smaku. Całość dopełnia musztarda, dodając burgerowi lekkiej ostrości i uzupełniając złożoność smaków. To klasyczne połączenie składników czyni hamburger z McDonald's niezapomnianym doświadczeniem smakowym, które wielu smakoszom kojarzy się z tradycyjnym, satysfakcjonującym posiłkiem.",
+            "price": "6.50 PLN",
+            "ingredients": [
+                "wołowina",
+                "kechup",
+                "pikle",
+                "cebula smarzona",
+                "musztarda"
+            ],
+            "photos": [
+                "https://cdn.mcdonalds.pl/uploads/20200602191706/hamburger.png https://www.mcdonalds.com.sg/sites/default/files/2023-02/1200x1200_MOP_BBPilot_Hamburger.png https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-hamburger:1-3-product-tile-desktop?wid=829&hei=513&dpr=off "
+            ],
+            "category": "burger"
+        },
+        {
+            "id": 6,
+            "productName": "McFlurry Lion",
+            "description": "Aksamitne lody o twoim ulubionym smaku - waniliowym lub truskawkowym. Podkręcone chrupiącą posypką Lion. Doskonały deser dla dorosłych lwów i małych lwiątek.",
+            "price": "10.50 PLN",
+            "ingredients": [
+                "lody o smaku waniliowym",
+                "posypka Lion"
+            ],
+            "photos": [
+                "https://cdn.mcdonalds.pl/uploads/20221222123327/350367-packshoty-waniliowa-baza-lodow-i-mcflurry-lion-na-www-1090x664px.png"
+            ],
+            "category": "Lody i desery"
+        },
+        {
+            "id": 7,
+            "productName": "Lody z polewą",
+            "description": "Deseru nie było w planach? Może aksamitne lody o smaku waniliowym z dowolnie wybraną polewą karmelową, truskawkową lub czekoladową sprawią, że zmienisz zdanie",
+            "price": "9.90 PLN",
+            "ingredients": [
+                "lody o smaku waniliowym",
+                "do wyboru polewa o smaku: czekoladowym/truskawkowym/karmelowym"
+            ],
+            "photos": [
+                "350367-packshoty-waniliowa-baza-lodow-i-mcflurry-na-www-1090x664px.png (1090×664) (mcdonalds.pl)"
+            ],
+            "category": "Lody i desery"
+        },
+        {
+            "id": 8,
+            "productName": "Big Mac",
+            "description": "Big Mac to kultowy burger McDonald's, który zachwyca smakoszy na całym świecie. Składający się z dwóch soczystych kotletów mielonych z czystej wołowiny, bułki pszennej z charakterystycznym sezamowym wierzchem oraz wyjątkowego sosu Big Mac, ten burger to istna uczta dla podniebienia. Między smakowitymi warstwami mięsa ukrywa się chrupiąca sałata lodowa, cebula i korniszony, dodając świeżości i wyrazistego aromatu. Całość podkreślona jest dwoma plasterkami delikatnego sera cheddar, które nadają burgerowi niezapomnianego smaku. Big Mac to nie tylko pyszna kompozycja smaków, ale również ikona kulinarnego krajobrazu, która podbija serca miłośników fast foodów na każdym kroku.",
+            "price": "19.90 PLN",
+            "ingredients": [
+                "wołowina",
+                "bułka z sezamem",
+                "sos Big Mac®",
+                "ser cheddar topiony",
+                "pikle",
+                "cebula suszona",
+                "sałata krojona"
+            ],
+            "photos": [
+                "https://cdn.mcdonalds.pl/uploads/20220922160740/big-mac.png https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-Big-Mac-2:product-header-desktop?wid=829&hei=455&dpr=off https://wiadomoscispozywcze.pl/media/cache/84/7f/847fedba18e7c305836e58a91b55dffa.webp"
+            ],
+            "category": "burger"
+        },
+        {
+            "id": 9,
+            "productName": "Burger Drwala",
+            "description": "Burger, dzięki któremu zima jest… pyszniejsza! Wyśmienity kotlet wołowy, panierowany kotlet serowy i chrupiący bekon. Do tego idealnie dobrane dodatki: świeża sałata, aromatyczna prażona cebulka i sos z przyprawami. Całość zamknięta w puszystej serowo-bekonowej bułce. Zimo, trwaj!",
+            "price": "23.90 PLN",
+            "ingredients": [
+                "wołowina",
+                "ser w panierce",
+                "bekon",
+                "sałaty",
+                "sosu",
+                "prażonej cebulki",
+                "bułka z serowo-bekonową posypką"
+            ],
+            "photos": [
+                "https://cdn.mcdonalds.pl/uploads/20231102114929/352978-drwal-2023-na-www-1090x664px-72dpi-2-burger-drwala-klasyczny.png"
+            ],
+            "category": "burger"
+        },
+        {
+            "id": 10,
+            "productName": "Zimowe McFlury",
+            "description": "Nowe McFlurry Zimowe zawitało do McDonald’s®! Aksamitne lody o smaku waniliowym komponują się bajecznie z posypką: z choinkami, gwiazdkami z mlecznej czekolady, kostkami karmelu i ze słodkimi kuleczkami Mars®. Do tego gęsta polewa o smaku czekoladowym lub karmelowa. Mmm… dzięki temu smakowi przełamiesz lody z zimą!",
+            "price": "13.40 PLN",
+            "ingredients": [
+                "Lody o smaku waniliowym z posypką Mars",
+                " do wyboru polewa o smaku: czekoladowym/truskawkowym/karmelowym"
+            ],
+            "photos": [
+                "https://cdn.mcdonalds.pl/uploads/20221114140618/350683-mcflurry-na-www-1090x664px-1-mcflurry-zimowe-baza-waniliowa-posypka-zimowa.png"
+            ],
+            "category": "Lody i desery"
+        },
+        {
+            "id": 11,
+            "productName": "Frytki zakręcone z sosem śmietanowym",
+            "description": "Te wyjątkowe frytki można jeść w kółko.",
+            "price": "9.90 PLN",
+            "ingredients": [
+                "Zakręcone frytki",
+                "sos śmietanowy"
+            ],
+            "photos": [
+                "https://cdn.mcdonalds.pl/uploads/20211123120237/348406-drwal-2021-na-www-1090x664px-6-frytki-zakre-cone.png"
+            ],
+            "category": "Frytki i dodatki"
+        },
+        {
+            "id": 12,
+            "productName": "Frytki średnie",
+            "description": "Któż ich nie zna? Z zewnątrz złociste i chrupiące, a w środku puszyste i miękkie. Gwarantujemy, że zawsze będą na Ciebie czekać w Maku!",
+            "price": "10.70 PLN",
+            "ingredients": [
+                "Frytki",
+                "ketchup"
+            ],
+            "photos": [
+                "https://res.cloudinary.com/tkwy-prod-eu/image/upload/ar_1:1,c_thumb,h_120,w_120/f_auto/q_auto/dpr_2.0/v1700778628/static-takeaway-com/images/restaurants/pl/0301P131/products/ue-2030-1"
+            ],
+            "category": "Frytki i dodatki"
+        },
+        {
+            "id": 13,
+            "productName": "Frytki duże",
+            "description": "Któż ich nie zna? Z zewnątrz złociste i chrupiące, a w środku puszyste i miękkie. Gwarantujemy, że zawsze będą na Ciebie czekać w Maku!",
+            "price": "10.90 PLN",
+            "ingredients": [
+                "Frytki",
+                "ketchup"
+            ],
+            "photos": [
+                "https://res.cloudinary.com/tkwy-prod-eu/image/upload/ar_1:1,c_thumb,h_120,w_120/f_auto/q_auto/dpr_2.0/v1700778628/static-takeaway-com/images/restaurants/pl/0301P131/products/ue-2060-1"
+            ],
+            "category": "Frytki i dodatki"
+        },
+        {
+            "id": 14,
+            "productName": "Frytki małe",
+            "description": "Któż ich nie zna? Z zewnątrz złociste i chrupiące, a w środku puszyste i miękkie. Gwarantujemy, że zawsze będą na Ciebie czekać w Maku!",
+            "price": "9.90 PLN",
+            "ingredients": [
+                "Frytki",
+                "ketchup"
+            ],
+            "photos": [
+                "https://res.cloudinary.com/tkwy-prod-eu/image/upload/ar_1:1,c_thumb,h_120,w_120/f_auto/q_auto/dpr_2.0/v1700778628/static-takeaway-com/images/restaurants/pl/0301P131/products/ue-2000-1"
+            ],
+            "category": "Frytki i dodatki"
+        },
+        {
+            "id": 15,
+            "productName": "Coca Cola",
+            "description": "Bąbelki idealnie dopełnią każdy zamówiony posiłek z Maka. Na co masz ochotę?",
+            "price": "8.90 PLN",
+            "ingredients": [
+                "Coca-Cola "
+            ],
+            "photos": [
+                "https://res.cloudinary.com/tkwy-prod-eu/image/upload/ar_1:1,c_thumb,h_120,w_120/f_auto/q_auto/dpr_2.0/v1700778628/static-takeaway-com/images/restaurants/pl/0301P131/products/ue-6003-3"
+            ],
+            "category": "Napoje"
+        },
+        {
+            "id": 16,
+            "productName": "Coca Cola Zero",
+            "description": "Bąbelki idealnie dopełnią każdy zamówiony posiłek z Maka. Na co masz ochotę?",
+            "price": "8.90 PLN",
+            "ingredients": [
+                "Coca Cola Zero"
+            ],
+            "photos": [
+                "https://res.cloudinary.com/tkwy-prod-eu/image/upload/ar_1:1,c_thumb,h_120,w_120/f_auto/q_auto/dpr_2.0/v1700778628/static-takeaway-com/images/restaurants/pl/0301P131/products/ue-6103-3"
+            ],
+            "category": "Napoje"
+        },
+        {
+            "id": 17,
+            "productName": "Fanta",
+            "description": "Bąbelki idealnie dopełnią każdy zamówiony posiłek z Maka. Na co masz ochotę?",
+            "price": "8.90 PLN",
+            "ingredients": [
+                "Fanta"
+            ],
+            "photos": [
+                "https://res.cloudinary.com/tkwy-prod-eu/image/upload/ar_1:1,c_thumb,h_120,w_120/f_auto/q_auto/dpr_2.0/v1700778628/static-takeaway-com/images/restaurants/pl/0301P131/products/ue-6203-3"
+            ],
+            "category": "Napoje"
+        },
+        {
+            "id": 18,
+            "productName": "Sprite",
+            "description": "Bąbelki idealnie dopełnią każdy zamówiony posiłek z Maka. Na co masz ochotę?",
+            "price": "8.90 PLN",
+            "ingredients": [
+                "Sprite"
+            ],
+            "photos": [
+                "https://res.cloudinary.com/tkwy-prod-eu/image/upload/ar_1:1,c_thumb,h_120,w_120/f_auto/q_auto/dpr_2.0/v1700778628/static-takeaway-com/images/restaurants/pl/0301P131/products/ue-6303-3"
+            ],
+            "category": "Napoje"
+        },
+        {
+            "id": 19,
+            "productName": "McWrap klasyczny",
+            "description": "McWrap klasyczny w McDonald's to soczysty posiłek zamknięty w cienkiej tortilli pszennej. Wnętrze tego smakowitego dania kryje chrupiący filet z kurczaka, świeża sałata lodowa, pomidor, ogórek, a całość jest delikatnie podkreślona sosem majonezowo-musztardowym. To lekka i smaczna alternatywa w menu, łącząca w sobie soczystość mięsa z chrupkością warzyw i aromatycznym sosem.",
+            "price": "13.90 PLN",
+            "ingredients": [
+                "Chicken Strips",
+                "plastry pomidora",
+                "ser cheddar topiony",
+                "sałata krojona",
+                "rukola",
+                "sos pomidorowy z cebulą",
+                "sos majonezowy"
+            ],
+            "photos": [
+                "https://cdn.mcdonalds.pl/uploads/20221221160508/350367-mcwrap-2022-na-www-1090x664px-7-mcwrap-klasyczny.png"
+            ],
+            "category": "McWrapy i sałatki"
+        },
+        {
+            "id": 20,
+            "productName": "Frytki",
+            "description": "Klasyczne, złociste frytki McDonald's, słynne z ich chrupkości i idealnego poziomu solenia. Podawane gorące, są nieodłącznym dodatkiem do każdego zestawu.",
+            "price": "5.00 PLN",
+            "ingredients": ["Ziemniaki", "olej roślinny", "sól"],
+            "photos": [],
+            "category": "Dodatki"
+        },
+        {
+            "id": 21,
+            "productName": "Kubuś Mus",
+            "description": "Mus owocowy Kubuś to zdrowa i smaczna przekąska dla dzieci. Bez dodatku cukru, konserwantów i barwników, pełna naturalnych składników.",
+            "price": "4.00 PLN",
+            "ingredients": ["Owoce w zmiennych proporcjach", "witamina C"],
+            "photos": [],
+            "category": "Przekąski dla dzieci"
+        },
+        {
+            "id": 22,
+            "productName": "Marchewki",
+            "description": "Chrząstki marchewkowe to doskonała alternatywa dla frytek. Świeże, chrupiące i pełne witamin, są świetnym źródłem błonnika.",
+            "price": "3.50 PLN",
+            "ingredients": ["Marchew"],
+            "photos": [],
+            "category": "Dodatki"
+        },
+        {
+            "id": 23,
+            "productName": "Jabłka",
+            "description": "Soczyste plasterki jabłka to zdrowy i słodki dodatek do posiłku. Bez cukru, konserwantów i barwników, idealne dla każdego szukającego lekkiej przekąski.",
+            "price": "3.50 PLN",
+            "ingredients": ["Jabłka"],
+            "photos": [],
+            "category": "Dodatki"
+        },
+        {
+            "id": 24,
+            "productName": "Sos słodko-kwaśny",
+            "description": "Sos słodko-kwaśny McDonald's to idealne połączenie słodyczy i kwaśności, doskonałe do dipowania nuggetsów lub frytek.",
+            "price": "1.00 PLN",
+            "ingredients": ["Woda", "cukier", "ocet", "modyfikowana skrobia kukurydziana", "koncentrat pomidorowy", "sól", "przyprawy"],
+            "photos": [],
+            "category": "Sosy"
+        },
+        {
+            "id": 25,
+            "productName": "Sos Sriracha",
+            "description": "Ostra nowość w McDonald's - sos Sriracha. Jego pikantny smak doda charakteru każdemu dania.",
+            "price": "1.00 PLN",
+            "ingredients": ["Papryka chili", "czosnek", "ocet", "cukier", "sól"],
+            "photos": [],
+            "category": "Sosy"
+        },
+        {
+            "id": 26,
+            "productName": "marchewki",
+            "description": "Paluszki ze świeżych marchewek to pyszne uzupełnienie posiłku, a także niezastąpione źródło witamin i wartości odżywczych. Warto!",
+            "price": "5.80 PLN",
+            "ingredients": [
+                "marchewka"
+            ],
+            "photos": [
+                "https://cdn.mcdonalds.pl/uploads/20221011185803/350463-mcspicy-na-www-1090x664px-2.png https://static.wikia.nocookie.net/mcdonalds-pedia/images/4/4c/Marchewki.png/revision/latest?cb=20190807092401&path-prefix=pl https://www.google.com/imgres?imgurl=https%3A%2F%2Fstaticsmaker.iplsc.com%2Fsmaker_prod_2017_09_15%2F556e4e24bfd1878e09b01969d8df01a2-content.jpg&tbnid=66xBTIc9h5CrTM&vet=12ahUKEwio6JHYvt2CAxUj4bsIHbYJDAsQMygQegQIARB1..i&imgrefurl=https%3A%2F%2Fsmaker.pl%2Finformacje-marchewki-baby-carrots-to-jedno-wielkie-oszustwo%2C1899909%2Ca%2C.html&docid=0DKf1cd8rzMmqM&w=1210&h=800&q=marchewki%20mcdonald&hl=pl&ved=2ahUKEwio6JHYvt2CAxUj4bsIHbYJDAsQMygQegQIARB1"
+            ],
+            "category": "McWrapy i sałatki"
+        },
+        {
+            "id": 27,
+            "productName": "Apple Pie Latte Macchiato",
+            "description": "Apple Pie Latte Macchiato to wyjątkowe połączenie aromatycznego espresso z delikatnym mlekiem i syropem o smaku szarlotki, zwieńczone pianką i posypane cynamonem. To idealny wybór dla tych, którzy pragną ciepłego, deserowego akcentu w swojej kawie.",
+            "price": "14.50 PLN",
+            "ingredients": ["Espresso", "mleko", "syrop o smaku szarlotki", "cynamon"],
+            "photos": [],
+            "category": "Napoje gorące"
+        },
+        {
+            "id": 28,
+            "productName": "Choco Latte Macchiato",
+            "description": "Choco Latte Macchiato łączy intensywne espresso z gęstym, spienionym mlekiem i słodkim syropem czekoladowym, oferując bogate i kremowe doświadczenie dla każdego miłośnika kawy i czekolady.",
+            "price": "15.00 PLN",
+            "ingredients": ["Espresso", "mleko", "syrop czekoladowy"],
+            "photos": [],
+            "category": "Napoje gorące"
+        },
+        {
+            "id": 29,
+            "productName": "Herbata Zimowa z Jabłkami",
+            "description": "Herbata Zimowa z Jabłkami to aromatyczna mieszanka herbaty z dodatkiem świeżych plasterków jabłek, serwowana w szklance, aby można było podziwiać jej piękny kolor i cieszyć się ciepłem, które daje w chłodne dni.",
+            "price": "10.00 PLN",
+            "ingredients": ["Herbata", "plasterki jabłek"],
+            "photos": [],
+            "category": "Napoje gorące"
+        },
+        {
+            "id": 30,
+            "productName": "Napoje Chłodzące",
+            "description": "Wybór napojów chłodzących w McCafé zapewnia orzeźwienie na każdą okazję. Klasyczne smaki jak Coca-Cola czy Fanta, lekki Sprite, a także różnorodne wersje Ice Tea, każdy znajdzie coś dla siebie.",
+            "price": "Zależna od wyboru napoju",
+            "ingredients": ["Zależne od wybranego napoju"],
+            "photos": [],
+            "category": "Napoje chłodzące"
+        },
+        {
+            "id": 31,
+            "productName": "Happy Meal®",
+            "description": "Kultowy Happy Meal® to nie tylko ulubione danie dla najmłodszych, ale także dawka radości dzięki zabawce dołączonej do każdego zestawu. W środku znajdziemy zbilansowany posiłek, który może być dostosowany do indywidualnych preferencji, w tym wybór między hamburgerem a cheeseburgerem lub McNuggets® oraz dodatek w postaci frytek lub świeżych warzyw.",
+            "price": "12.00 PLN",
+            "ingredients": ["Do wyboru: hamburger, cheeseburger, McNuggets®, frytki, świeże warzywa"],
+            "photos": [],
+            "category": "Menu Dziecięce"
+        },
+        {
+            "id": 32,
+            "productName": "Happy Meal® Śniadaniowy",
+            "description": "Happy Meal® Śniadaniowy to idealny sposób, by rozpocząć dzień pełne energii i uśmiechu. Oferuje zdrowy i smaczny posiłek, który zadowoli gusta młodych smakoszy. Zestaw zawiera delikatną bułkę z jajkiem i wyborem między kiełbaską a plastrami bekonu, a także opcję świeżych plasterków jabłka zamiast tradycyjnych frytek.",
+            "price": "12.00 PLN",
+            "ingredients": ["Bułka z jajkiem i kiełbaską lub bekonem, plasterki jabłka"],
+            "photos": [],
+            "category": "Menu Śniadaniowe Dziecięce"
+        },
+        {
+            "id": 33,
+            "productName": "Kajzerka Jajko i Pieczarki",
+            "description": "Bułka kajzerka z delikatnym miąższem, wypełniona starannie przygotowanym omletem z jaj, soczystymi pieczarkami i świeżymi liśćmi rukoli. Całość dopełnia kremowy ser cheddar, tworząc harmonijną i pożywną kompozycję.",
+            "price": "9.50 PLN",
+            "ingredients": ["omlet z jaj", "pieczarki", "rukola", "ser cheddar"],
+            "photos": [],
+            "category": "Śniadania"
+        },
+        {
+            "id": 34,
+            "productName": "McMuffin® Twarożek i Rzodkiewka",
+            "description": "Miękki, angielski McMuffin wypełniony świeżym twarożkiem i chrupiącymi plasterkami rzodkiewki, zapewniając lekki i orzeźwiający początek dnia.",
+            "price": "7.90 PLN",
+            "ingredients": ["twarożek", "rzodkiewka", "bułka McMuffin"],
+            "photos": [],
+            "category": "Śniadania"
+        },
+        {
+            "id": 35,
+            "productName": "McMuffin® Farmerski",
+            "description": "Klasyka w najlepszym wydaniu – McMuffin Farmerski to połączenie jajka sadzonego, wieprzowej kiełbaski i topionego sera cheddar, zamknięte w puszystej angielskiej bułce.",
+            "price": "10.00 PLN",
+            "ingredients": ["jajko sadzone", "kiełbasa wieprzowa", "ser cheddar", "bułka McMuffin"],
+            "photos": [],
+            "category": "Śniadania"
+        },
+        {
+            "id": 36,
+            "productName": "McMuffin® Jajko i Boczek",
+            "description": "Niezastąpione połączenie jajka z chrupiącym boczkiem, doprawione odrobiną sosu majonezowego, zapakowane w klasyczną bułkę McMuffin – idealny sposób na sycące śniadanie.",
+            "price": "11.00 PLN",
+            "ingredients": ["jajko", "boczek", "sos majonezowy", "bułka McMuffin"],
+            "photos": [],
+            "category": "Śniadania"
+        },
+        {
+            "id": 37,
+            "productName": "McMuffin® Wieprzowy z Jajkiem",
+            "description": "Proste i efektywne połączenie – soczysta wieprzowa kotlet z jajkiem sadzonym, przykryte warstwą roztopionego sera cheddar, serwowane w puszystym McMuffinie.",
+            "price": "11.50 PLN",
+            "ingredients": ["kotlet wieprzowy", "jajko sadzone", "ser cheddar", "bułka McMuffin"],
+            "photos": [],
+            "category": "Śniadania"
+        },
+        {
+            "id": 38,
+            "productName": "Latte z Smakiem Szarlotki",
+            "description": "Latte z Smakiem Szarlotki w McCafé to połączenie klasycznego deseru z bogatym smakiem kawy. Ten pyszny napój zawiera mieszankę syropu o smaku szarlotki i espresso, uzupełnione o spienione mleko, bitą śmietanę i szczyptę cynamonu dla przytulnego i wykwintnego doznania.",
+            "price": "14.50 PLN",
+            "ingredients": ["Espresso", "syrop o smaku szarlotki", "spienione mleko", "bita śmietana", "cynamon"],
+            "photos": [],
+            "category": "Specjały Sezonowe"
+        },
+        {
+            "id": 39,
+            "productName": "Macchiato Czekoladowe",
+            "description": "Macchiato Czekoladowe w McCafé to luksusowe połączenie aksamitnego spienionego mleka i mocnego espresso z czekoladowym akcentem. Ten dekadencki napój ma artystycznie ułożone warstwy, oferując idealną równowagę między mocą kawy a słodyczą czekolady, zakończoną delikatnym czekoladowym sosem na wierzchu.",
+            "price": "15.00 PLN",
+            "ingredients": ["Espresso", "spienione mleko", "syrop czekoladowy", "polewa czekoladowa"],
+            "photos": [],
+            "category": "Macchiato"
+        },
+        {
+            "id": 40,
+            "productName": "Zimowa Herbata Ziołowa",
+            "description": "Zimowa Herbata Ziołowa w McCafé to ciepła, aromatyczna ucieczka od zimna. Ta mieszanka sezonowych ziół i przypraw jest podawana w przeźroczystym szkle, ukazując bogaty bursztynowy kolor i pozwala otulić się kojącymi zapachami przy każdym łyku, oferując relaksującą przerwę podczas zimowych miesięcy.",
+            "price": "10.00 PLN",
+            "ingredients": ["Mieszanka ziołowa", "gorąca woda"],
+            "photos": [],
+            "category": "Herbaty"
+        },
+        {
+            "id": 41,
+            "productName": "Café Latte",
+            "description": "Café Latte w McCafé to klasyczny napój, przygotowywany z świeżo zaparzonego espresso i spienionego mleka. Ten kremowy i gładki napój kawowy to podstawa dla każdego miłośnika kawy, zapewniający ciepłe i komfortowe doznania o każdej porze dnia.",
+            "price": "12.50 PLN",
+            "ingredients": ["Espresso", "spienione mleko"],
+            "photos": [],
+            "category": "Kawy"
+        },
+        {
+            "id": 42,
+            "productName": "Cappuccino",
+            "description": "Cappuccino w McCafé to idealne połączenie mocnego espresso i puszystego mleka, artystycznie zwieńczone delikatną warstwą pianki mlecznej. To tradycyjna włoska kawa, która zdobyła miłośników na całym świecie, oferując bogaty i satysfakcjonujący smak przy każdej filiżance.",
+            "price": "12.50 PLN",
+            "ingredients": ["Espresso", "spienione mleko", "pianka mleczna"],
+            "photos": [],
+            "category": "Kawy"
+        }
+
+
+    ]
+}

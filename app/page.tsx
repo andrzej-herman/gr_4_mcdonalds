@@ -1,7 +1,14 @@
-export default function Home()   {
+import Header from "@/components/Header";
+
+export default function Home() {
   return (
-    <div className="h-full flex items-center justify-center">
-      <h1 className="text-5xl text-emerald-600 tracking-tighter">Welcome to McDonalds</h1>
+    <div>
+      <div className="container">
+        <Header />
+      </div>
+      <div className="bg-[url('/banner.jpg')] h-[300px] w-full bg-cover bg-center mt-2">
+        test
+      </div>
     </div>
-  )
+  );
 }
